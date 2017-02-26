@@ -1,17 +1,2 @@
 # 基于 Node.js 实现微信公众号
-
-
-## 效果图
-目前使用测试号实现消息的自动回复、媒体上传功能。
-
-![回复消息1](/img/replyOne.png)
-
-<img src="/img/replyTwo.png" width="25%" height="25%"/>
-
-## 后台消息格式
-微信服务器响应 xml 格式数据，使用 xml2js 模块将其转换为 js 对象。
-![xml格式](/img/xml.png)
-![消息格式](/img/message.png)
-
-
-
+项目介绍：[http://matuan.coding.me](http://matuan.coding.me/2017/02/26/JavaScript%E5%BC%80%E5%8F%91/node.js/%E9%A1%B9%E7%9B%AE%E6%80%BB%E7%BB%93-%E5%9F%BA%E4%BA%8ENodejs%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E5%BC%80%E5%8F%91/)
